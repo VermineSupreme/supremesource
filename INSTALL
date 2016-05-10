@@ -1,0 +1,9 @@
+Building Supreme
+
+See doc/readme-qt.rst for instructions on building Supreme QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Supreme.
+
+See doc/build-*.txt for instructions on building supremed,
+the intended-for-services, no-graphical-interface, reference
+implementation of Supreme.
